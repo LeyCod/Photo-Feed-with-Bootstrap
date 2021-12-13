@@ -2,7 +2,7 @@
 
 ## To-Dos:
 
-- Create a website that looks like this one:[this exact same picture](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif).
+- Create a website that looks like this one:
 
 ![preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif)
 
@@ -27,4 +27,4 @@ $ pip3 install flask && python3 server.py
 ### About Me:
 
 Github: [LeyCod](http://https://github.com/LeyCod "LeyCod")
-Linkedin-square: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
+Linkedin: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
